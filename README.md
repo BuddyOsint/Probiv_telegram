@@ -100,7 +100,7 @@ class="octicon octicon-link" /></a>
 | [**Unamer**](https://t.me/unamer_bot?start=ref-0K8z2470FXPX4eVL) | Этот бот поможет бесплатно пробить номер телефона и узнать владельца по Telegram. |
 | [**AVinfo**](https://t.me/avinfo) | Поиск по госномеру, VIN, номеру телефона, фото, IP, email, ИНН организации, номеру ПТС. |
 | [**InfoBaza**](https://t.me/InfoBazaBot) | Поиск по номеру телефона, ФИО, авто, email, соцсетям, ЕГРЮЛ, WHOIS, никнейму. |
-| [**GTA Search**](https://t.me/GlobalTechAggregator_bot) | Поиск по телефону, ФИО, email, Telegram ID/username, паролю, username, VK, Facebook, авто, IP и фото. |
+| [**GTA Search**](https://t.me/GlobalTechAgregatorSigma_bot) | Поиск по телефону, ФИО, email, Telegram ID/username, паролю, username, VK, Facebook, авто, IP и фото. |
 
 <div class="markdown-heading" dir="auto">
 
